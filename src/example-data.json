@@ -1,0 +1,1014 @@
+{
+  "buildings": [
+    {
+      "id": 1,
+      "name": "Building A",
+      "levels": [
+        {
+          "id": 101,
+          "name": "Level 1",
+          "areas": [
+            {
+              "id": 1011,
+              "name": "Area 1a"
+            },
+            {
+              "id": 1012,
+              "name": "Area 1b"
+            }
+          ]
+        },
+        {
+          "id": 102,
+          "name": "Level 2",
+          "areas": [
+            {
+              "id": 1021,
+              "name": "Area 2a"
+            },
+            {
+              "id": 1022,
+              "name": "Area 2b"
+            },
+            {
+              "id": 1023,
+              "name": "Area 2c"
+            }
+          ]
+        },
+        {
+          "id": 103,
+          "name": "Level 3",
+          "areas": [
+            {
+              "id": 1031,
+              "name": "Area 3a"
+            }
+          ]
+        },
+        {
+          "id": 104,
+          "name": "Level 4",
+          "areas": [
+            {
+              "id": 1041,
+              "name": "Area 4a"
+            },
+            {
+              "id": 1042,
+              "name": "Area 4b"
+            }
+          ]
+        },
+        {
+          "id": 105,
+          "name": "Level 5",
+          "areas": [
+            {
+              "id": 1051,
+              "name": "Area 5a"
+            },
+            {
+              "id": 1052,
+              "name": "Area 5b"
+            },
+            {
+              "id": 1053,
+              "name": "Area 5c"
+            }
+          ]
+        },
+        {
+          "id": 106,
+          "name": "Level 6",
+          "areas": [
+            {
+              "id": 1061,
+              "name": "Area 6a"
+            }
+          ]
+        },
+        {
+          "id": 107,
+          "name": "Level 7",
+          "areas": [
+            {
+              "id": 1071,
+              "name": "Area 7a"
+            },
+            {
+              "id": 1072,
+              "name": "Area 7b"
+            }
+          ]
+        },
+        {
+          "id": 108,
+          "name": "Level 8",
+          "areas": [
+            {
+              "id": 1081,
+              "name": "Area 8a"
+            },
+            {
+              "id": 1082,
+              "name": "Area 8b"
+            },
+            {
+              "id": 1083,
+              "name": "Area 8c"
+            }
+          ]
+        },
+        {
+          "id": 109,
+          "name": "Level 9",
+          "areas": [
+            {
+              "id": 1091,
+              "name": "Area 9a"
+            }
+          ]
+        },
+        {
+          "id": 110,
+          "name": "Level 10",
+          "areas": [
+            {
+              "id": 1101,
+              "name": "Area 10a"
+            },
+            {
+              "id": 1102,
+              "name": "Area 10b"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Building B",
+      "levels": [
+        {
+          "id": 201,
+          "name": "Level 1",
+          "areas": [
+            {
+              "id": 2011,
+              "name": "Area 1a"
+            },
+            {
+              "id": 2012,
+              "name": "Area 1b"
+            }
+          ]
+        },
+        {
+          "id": 202,
+          "name": "Level 2",
+          "areas": [
+            {
+              "id": 2021,
+              "name": "Area 2a"
+            },
+            {
+              "id": 2022,
+              "name": "Area 2b"
+            },
+            {
+              "id": 2023,
+              "name": "Area 2c"
+            }
+          ]
+        },
+        {
+          "id": 203,
+          "name": "Level 3",
+          "areas": [
+            {
+              "id": 2031,
+              "name": "Area 3a"
+            }
+          ]
+        },
+        {
+          "id": 204,
+          "name": "Level 4",
+          "areas": [
+            {
+              "id": 2041,
+              "name": "Area 4a"
+            },
+            {
+              "id": 2042,
+              "name": "Area 4b"
+            }
+          ]
+        },
+        {
+          "id": 205,
+          "name": "Level 5",
+          "areas": [
+            {
+              "id": 2051,
+              "name": "Area 5a"
+            },
+            {
+              "id": 2052,
+              "name": "Area 5b"
+            },
+            {
+              "id": 2053,
+              "name": "Area 5c"
+            }
+          ]
+        },
+        {
+          "id": 206,
+          "name": "Level 6",
+          "areas": [
+            {
+              "id": 2061,
+              "name": "Area 6a"
+            }
+          ]
+        },
+        {
+          "id": 207,
+          "name": "Level 7",
+          "areas": [
+            {
+              "id": 2071,
+              "name": "Area 7a"
+            },
+            {
+              "id": 2072,
+              "name": "Area 7b"
+            }
+          ]
+        },
+        {
+          "id": 208,
+          "name": "Level 8",
+          "areas": [
+            {
+              "id": 2081,
+              "name": "Area 8a"
+            },
+            {
+              "id": 2082,
+              "name": "Area 8b"
+            },
+            {
+              "id": 2083,
+              "name": "Area 8c"
+            }
+          ]
+        },
+        {
+          "id": 209,
+          "name": "Level 9",
+          "areas": [
+            {
+              "id": 2091,
+              "name": "Area 9a"
+            }
+          ]
+        },
+        {
+          "id": 210,
+          "name": "Level 10",
+          "areas": [
+            {
+              "id": 2101,
+              "name": "Area 10a"
+            },
+            {
+              "id": 2102,
+              "name": "Area 10b"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Building C",
+      "levels": [
+        {
+          "id": 301,
+          "name": "Level 1",
+          "areas": [
+            {
+              "id": 3011,
+              "name": "Area 1a"
+            },
+            {
+              "id": 3012,
+              "name": "Area 1b"
+            }
+          ]
+        },
+        {
+          "id": 302,
+          "name": "Level 2",
+          "areas": [
+            {
+              "id": 3021,
+              "name": "Area 2a"
+            },
+            {
+              "id": 3022,
+              "name": "Area 2b"
+            },
+            {
+              "id": 3023,
+              "name": "Area 2c"
+            }
+          ]
+        },
+        {
+          "id": 303,
+          "name": "Level 3",
+          "areas": [
+            {
+              "id": 3031,
+              "name": "Area 3a"
+            }
+          ]
+        },
+        {
+          "id": 304,
+          "name": "Level 4",
+          "areas": [
+            {
+              "id": 3041,
+              "name": "Area 4a"
+            },
+            {
+              "id": 3042,
+              "name": "Area 4b"
+            }
+          ]
+        },
+        {
+          "id": 305,
+          "name": "Level 5",
+          "areas": [
+            {
+              "id": 3051,
+              "name": "Area 5a"
+            },
+            {
+              "id": 3052,
+              "name": "Area 5b"
+            },
+            {
+              "id": 3053,
+              "name": "Area 5c"
+            }
+          ]
+        },
+        {
+          "id": 306,
+          "name": "Level 6",
+          "areas": [
+            {
+              "id": 3061,
+              "name": "Area 6a"
+            }
+          ]
+        },
+        {
+          "id": 307,
+          "name": "Level 7",
+          "areas": [
+            {
+              "id": 3071,
+              "name": "Area 7a"
+            },
+            {
+              "id": 3072,
+              "name": "Area 7b"
+            }
+          ]
+        },
+        {
+          "id": 308,
+          "name": "Level 8",
+          "areas": [
+            {
+              "id": 3081,
+              "name": "Area 8a"
+            },
+            {
+              "id": 3082,
+              "name": "Area 8b"
+            },
+            {
+              "id": 3083,
+              "name": "Area 8c"
+            }
+          ]
+        },
+        {
+          "id": 309,
+          "name": "Level 9",
+          "areas": [
+            {
+              "id": 3091,
+              "name": "Area 9a"
+            }
+          ]
+        },
+        {
+          "id": 310,
+          "name": "Level 10",
+          "areas": [
+            {
+              "id": 3101,
+              "name": "Area 10a"
+            },
+            {
+              "id": 3102,
+              "name": "Area 10b"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Building D",
+      "levels": [
+        {
+          "id": 401,
+          "name": "Level 1",
+          "areas": [
+            {
+              "id": 4011,
+              "name": "Area 1a"
+            },
+            {
+              "id": 4012,
+              "name": "Area 1b"
+            }
+          ]
+        },
+        {
+          "id": 402,
+          "name": "Level 2",
+          "areas": [
+            {
+              "id": 4021,
+              "name": "Area 2a"
+            },
+            {
+              "id": 4022,
+              "name": "Area 2b"
+            },
+            {
+              "id": 4023,
+              "name": "Area 2c"
+            }
+          ]
+        },
+        {
+          "id": 403,
+          "name": "Level 3",
+          "areas": [
+            {
+              "id": 4031,
+              "name": "Area 3a"
+            }
+          ]
+        },
+        {
+          "id": 404,
+          "name": "Level 4",
+          "areas": [
+            {
+              "id": 4041,
+              "name": "Area 4a"
+            },
+            {
+              "id": 4042,
+              "name": "Area 4b"
+            }
+          ]
+        },
+        {
+          "id": 405,
+          "name": "Level 5",
+          "areas": [
+            {
+              "id": 4051,
+              "name": "Area 5a"
+            },
+            {
+              "id": 4052,
+              "name": "Area 5b"
+            },
+            {
+              "id": 4053,
+              "name": "Area 5c"
+            }
+          ]
+        },
+        {
+          "id": 406,
+          "name": "Level 6",
+          "areas": [
+            {
+              "id": 4061,
+              "name": "Area 6a"
+            }
+          ]
+        },
+        {
+          "id": 407,
+          "name": "Level 7",
+          "areas": [
+            {
+              "id": 4071,
+              "name": "Area 7a"
+            },
+            {
+              "id": 4072,
+              "name": "Area 7b"
+            }
+          ]
+        },
+        {
+          "id": 408,
+          "name": "Level 8",
+          "areas": [
+            {
+              "id": 4081,
+              "name": "Area 8a"
+            },
+            {
+              "id": 4082,
+              "name": "Area 8b"
+            },
+            {
+              "id": 4083,
+              "name": "Area 8c"
+            }
+          ]
+        },
+        {
+          "id": 409,
+          "name": "Level 9",
+          "areas": [
+            {
+              "id": 4091,
+              "name": "Area 9a"
+            }
+          ]
+        },
+        {
+          "id": 410,
+          "name": "Level 10",
+          "areas": [
+            {
+              "id": 4101,
+              "name": "Area 10a"
+            },
+            {
+              "id": 4102,
+              "name": "Area 10b"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Building E",
+      "levels": [
+        {
+          "id": 501,
+          "name": "Level 1",
+          "areas": [
+            {
+              "id": 5011,
+              "name": "Area 1a"
+            },
+            {
+              "id": 5012,
+              "name": "Area 1b"
+            }
+          ]
+        },
+        {
+          "id": 502,
+          "name": "Level 2",
+          "areas": [
+            {
+              "id": 5021,
+              "name": "Area 2a"
+            },
+            {
+              "id": 5022,
+              "name": "Area 2b"
+            },
+            {
+              "id": 5023,
+              "name": "Area 2c"
+            }
+          ]
+        },
+        {
+          "id": 503,
+          "name": "Level 3",
+          "areas": [
+            {
+              "id": 5031,
+              "name": "Area 3a"
+            }
+          ]
+        },
+        {
+          "id": 504,
+          "name": "Level 4",
+          "areas": [
+            {
+              "id": 5041,
+              "name": "Area 4a"
+            },
+            {
+              "id": 5042,
+              "name": "Area 4b"
+            }
+          ]
+        },
+        {
+          "id": 505,
+          "name": "Level 5",
+          "areas": [
+            {
+              "id": 5051,
+              "name": "Area 5a"
+            },
+            {
+              "id": 5052,
+              "name": "Area 5b"
+            },
+            {
+              "id": 5053,
+              "name": "Area 5c"
+            }
+          ]
+        },
+        {
+          "id": 506,
+          "name": "Level 6",
+          "areas": [
+            {
+              "id": 5061,
+              "name": "Area 6a"
+            }
+          ]
+        },
+        {
+          "id": 507,
+          "name": "Level 7",
+          "areas": [
+            {
+              "id": 5071,
+              "name": "Area 7a"
+            },
+            {
+              "id": 5072,
+              "name": "Area 7b"
+            }
+          ]
+        },
+        {
+          "id": 508,
+          "name": "Level 8",
+          "areas": [
+            {
+              "id": 5081,
+              "name": "Area 8a"
+            },
+            {
+              "id": 5082,
+              "name": "Area 8b"
+            },
+            {
+              "id": 5083,
+              "name": "Area 8c"
+            }
+          ]
+        },
+        {
+          "id": 509,
+          "name": "Level 9",
+          "areas": [
+            {
+              "id": 5091,
+              "name": "Area 9a"
+            }
+          ]
+        },
+        {
+          "id": 510,
+          "name": "Level 10",
+          "areas": [
+            {
+              "id": 5101,
+              "name": "Area 10a"
+            },
+            {
+              "id": 5102,
+              "name": "Area 10b"
+            }
+          ]
+        },
+        {
+          "id": 511,
+          "name": "Level 11",
+          "areas": [
+            {
+              "id": 5111,
+              "name": "Area 11a"
+            },
+            {
+              "id": 5112,
+              "name": "Area 11b"
+            },
+            {
+              "id": 5113,
+              "name": "Area 11c"
+            }
+          ]
+        },
+        {
+          "id": 512,
+          "name": "Level 12",
+          "areas": [
+            {
+              "id": 5121,
+              "name": "Area 12a"
+            }
+          ]
+        },
+        {
+          "id": 513,
+          "name": "Level 13",
+          "areas": [
+            {
+              "id": 5131,
+              "name": "Area 13a"
+            },
+            {
+              "id": 5132,
+              "name": "Area 13b"
+            }
+          ]
+        },
+        {
+          "id": 514,
+          "name": "Level 14",
+          "areas": [
+            {
+              "id": 5141,
+              "name": "Area 14a"
+            },
+            {
+              "id": 5142,
+              "name": "Area 14b"
+            },
+            {
+              "id": 5143,
+              "name": "Area 14c"
+            }
+          ]
+        },
+        {
+          "id": 515,
+          "name": "Level 15",
+          "areas": [
+            {
+              "id": 5151,
+              "name": "Area 15a"
+            }
+          ]
+        },
+        {
+          "id": 516,
+          "name": "Level 16",
+          "areas": [
+            {
+              "id": 5161,
+              "name": "Area 16a"
+            },
+            {
+              "id": 5162,
+              "name": "Area 16b"
+            }
+          ]
+        },
+        {
+          "id": 517,
+          "name": "Level 17",
+          "areas": [
+            {
+              "id": 5171,
+              "name": "Area 17a"
+            },
+            {
+              "id": 5172,
+              "name": "Area 17b"
+            },
+            {
+              "id": 5173,
+              "name": "Area 17c"
+            }
+          ]
+        },
+        {
+          "id": 518,
+          "name": "Level 18",
+          "areas": [
+            {
+              "id": 5181,
+              "name": "Area 18a"
+            }
+          ]
+        },
+        {
+          "id": 519,
+          "name": "Level 19",
+          "areas": [
+            {
+              "id": 5191,
+              "name": "Area 19a"
+            },
+            {
+              "id": 5192,
+              "name": "Area 19b"
+            }
+          ]
+        },
+        {
+          "id": 520,
+          "name": "Level 20",
+          "areas": [
+            {
+              "id": 5201,
+              "name": "Area 20a"
+            },
+            {
+              "id": 5202,
+              "name": "Area 20b"
+            },
+            {
+              "id": 5203,
+              "name": "Area 20c"
+            }
+          ]
+        },
+        {
+          "id": 521,
+          "name": "Level 21",
+          "areas": [
+            {
+              "id": 5211,
+              "name": "Area 21a"
+            }
+          ]
+        },
+        {
+          "id": 522,
+          "name": "Level 22",
+          "areas": [
+            {
+              "id": 5221,
+              "name": "Area 22a"
+            },
+            {
+              "id": 5222,
+              "name": "Area 22b"
+            }
+          ]
+        },
+        {
+          "id": 523,
+          "name": "Level 23",
+          "areas": [
+            {
+              "id": 5231,
+              "name": "Area 23a"
+            },
+            {
+              "id": 5232,
+              "name": "Area 23b"
+            },
+            {
+              "id": 5233,
+              "name": "Area 23c"
+            }
+          ]
+        },
+        {
+          "id": 524,
+          "name": "Level 24",
+          "areas": [
+            {
+              "id": 5241,
+              "name": "Area 24a"
+            }
+          ]
+        },
+        {
+          "id": 525,
+          "name": "Level 25",
+          "areas": [
+            {
+              "id": 5251,
+              "name": "Area 25a"
+            },
+            {
+              "id": 5252,
+              "name": "Area 25b"
+            }
+          ]
+        },
+        {
+          "id": 526,
+          "name": "Level 26",
+          "areas": [
+            {
+              "id": 5261,
+              "name": "Area 26a"
+            },
+            {
+              "id": 5262,
+              "name": "Area 26b"
+            },
+            {
+              "id": 5263,
+              "name": "Area 26c"
+            }
+          ]
+        },
+        {
+          "id": 527,
+          "name": "Level 27",
+          "areas": [
+            {
+              "id": 5271,
+              "name": "Area 27a"
+            }
+          ]
+        },
+        {
+          "id": 528,
+          "name": "Level 28",
+          "areas": [
+            {
+              "id": 5281,
+              "name": "Area 28a"
+            },
+            {
+              "id": 5282,
+              "name": "Area 28b"
+            }
+          ]
+        },
+        {
+          "id": 529,
+          "name": "Level 29",
+          "areas": [
+            {
+              "id": 5291,
+              "name": "Area 29a"
+            },
+            {
+              "id": 5292,
+              "name": "Area 29b"
+            },
+            {
+              "id": 5293,
+              "name": "Area 29c"
+            }
+          ]
+        },
+        {
+          "id": 530,
+          "name": "Level 30",
+          "areas": [
+            {
+              "id": 5301,
+              "name": "Area 30a"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
